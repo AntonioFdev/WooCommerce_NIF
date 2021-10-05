@@ -1,3 +1,4 @@
+<?php 
 /**
  * Añade el campo NIF a la página de checkout de WooCommerce
  */
